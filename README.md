@@ -1,56 +1,48 @@
-# 👋 Hi, I'm Gul Jan Bhutto
+# Gul Jan Bhutto - Personal Portfolio
 
-Welcome to my personal portfolio repository! I am a passionate developer and tech enthusiast focused on building impactful digital solutions, including AI-powered healthcare tools and modern web applications.
+This repository contains the source code for my personal portfolio website. It serves as a professional showcase of my software engineering projects, technical skills, and experience in building AI-integrated web applications.
 
-🌐 **Live Portfolio:** [friendly-swan-fc1327.netlify.app](https://friendly-swan-fc1327.netlify.app) 
+**Live Website:** [friendly-swan-fc1327.netlify.app](https://friendly-swan-fc1327.netlify.app) 
 
----
+## Professional Summary
 
-## 🚀 About Me
-I enjoy turning complex problems into simple, beautiful, and intuitive designs. My work spans across frontend development, AI integration, and creating tools that make a real difference. 
+I am a developer focused on building clean, functional, and user-centric digital solutions. My technical experience spans frontend web development and the integration of artificial intelligence models into practical applications. I am dedicated to continuous learning and applying technology to solve complex problems.
 
-When I'm not coding, I'm constantly exploring new technologies and improving my skills in software engineering and machine learning.
+## Technical Skills
 
-## 🛠️ Tech Stack & Skills
-Here are some of the technologies and tools I work with:
+*   **Frontend Development:** HTML5, CSS3, JavaScript
+*   **Artificial Intelligence & Machine Learning:** Python, AI Model Integration
+*   **Development Tools & Hosting:** Git, GitHub, Netlify
 
-*   **Frontend:** HTML5, CSS3, JavaScript
-*   **AI & Machine Learning:** Python, AI Model Integration
-*   **Tools & Platforms:** Git, GitHub, Netlify
+## Featured Projects
 
----
+### Parkinson's AI
+Developed an AI-assisted tool designed to analyze and assist in the early detection of Parkinson's disease symptoms. 
+*   **Role:** Developer
+*   **Technologies:** AI/ML, Web Integration
 
-## 💻 Featured Projects
+### AmanAI
+An AI-focused project designed to deliver automated solutions and enhance user interactions through intelligent systems.
+*   **Role:** Developer
+*   **Technologies:** AI/ML, Web Integration
 
-### 🧠 Parkinson's AI Demo
-An AI-powered tool designed to assist in the early detection and analysis of Parkinson's disease symptoms. 
-*   *Role:* Developer
-*   *Tech Used:* AI/ML, Web Integration
+*(Interactive demos for these projects are available on my live portfolio website.)*
 
-### 🤖 AmanAI Demo
-An innovative AI project aimed at providing smart, automated solutions for users.
-*   *Role:* Developer
-*   *Tech Used:* AI/ML, Web Integration
+## Project Structure
 
-*(Check out my live portfolio to interact with these demos!)*
+The codebase is structured as follows:
+*   `index.html` - The main document structure and content of the website.
+*   `style.css` - The styling, layout, and responsive design elements.
+*   `script.js` - The core logic and interactive functionality.
+*   `images/` - Directory containing project screenshots and profile media assets.
 
----
+## Contact & Professional Network
 
-## 📂 Repository Structure
-This repository contains the source code for my personal portfolio website:
-*   `index.html` - The main structure of the website.
-*   `style.css` - The styling and responsive design.
-*   `script.js` - Interactive features and functionality.
-*   `/images` - Project screenshots and profile assets.
-
----
-
-## 📫 Let's Connect
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+I am open to discussing software development opportunities, project collaborations, and technical roles.
 
 *   **LinkedIn:** [Sony Gul Jan Bhutto](https://www.linkedin.com/in/sony-gul-jan-bhutto-13061833b)
 *   **Email:** sonybhutto@gmail.com
 *   **GitHub:** [@sonybhutto](https://github.com/sonybhutto)
 
 ---
-*Built with ❤️ and deployed on Netlify.*
+*This project is deployed and hosted via Netlify.*
